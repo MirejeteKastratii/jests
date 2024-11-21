@@ -1,0 +1,8 @@
+.mirjetaClass{
+    background-color: pink !important;
+    color: red !important;
+}
+.action{
+    display: flex;
+    justify-content: space-around;
+}

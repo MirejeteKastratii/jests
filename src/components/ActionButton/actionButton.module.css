@@ -1,0 +1,30 @@
+.button {
+    width: 2em;
+    height: 2em;
+    border: 1px solid gray;
+    border-radius: 4px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.edit {
+    background-color: beige;
+
+    color: black;
+    border-color: white;
+}
+
+.edit:hover{
+    background-color: rgb(179, 179, 163);
+
+}
+
+.delete {
+    background-color: red;
+    color: white;
+    border-color: white;
+}
+.delete:hover{
+    background-color: darkred;
+}
